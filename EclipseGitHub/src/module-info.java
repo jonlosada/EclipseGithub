@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Ikaslea
+ *
+ */
+module EclipseGitHub {
+}
